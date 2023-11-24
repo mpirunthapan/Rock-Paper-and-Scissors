@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT6Ce0+6hGxNQq3b5318xrIcnc52jsvDS6B3XT77/Hdn8WsTl6gH7c6pH5B3QYg4OQGpqInCcVGn8WOxrVDXxQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#-projects\\Rock Paper and Scissors\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
